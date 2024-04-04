@@ -1,0 +1,10 @@
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\bin\Debug\netstandard2.1\LibreriaDeClases.deps.json
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\bin\Debug\netstandard2.1\LibreriaDeClases.dll
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\bin\Debug\netstandard2.1\LibreriaDeClases.pdb
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.AssemblyInfoInputs.cache
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.AssemblyInfo.cs
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.csproj.CoreCompileInputs.cache
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.sourcelink.json
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.dll
+C:\Act1ProgWebII\ProgramacionWebII-Actividad-Complementaria-CSharp\obj\Debug\netstandard2.1\LibreriaDeClases.pdb
